@@ -34,6 +34,7 @@ When the user provides a topic, follow this workflow:
    - Produce a complete topic document, not merely a learning roadmap.
    - Include a learning path only as an optional section when useful.
    - Prioritize structure, explanation, comparison, examples, and judgment.
+   - When a visual would materially improve understanding, include an appropriate diagram or image. The image may come from search or generation, and can be a panorama map, architecture diagram, timeline, sequence diagram, data-flow diagram, comparison matrix, or other topic-appropriate visual.
 
 5. Offer follow-up expansion
    - Suggest one focused next step, such as expanding a section, adding examples, turning it into a checklist, or adapting it for a specific audience.
@@ -140,5 +141,6 @@ Prefer this order: user-specified path → ask for missing path → fallback to 
 - Do not produce generic encyclopedia prose. Use structure, examples, and analysis.
 - Explain why each major dimension matters.
 - Prefer tables for comparison and bullet lists for maps, but use paragraphs for explanation.
+- Use diagrams or images when they clarify structure, process, relationships, timelines, architecture, or flows better than text alone.
 - For fast-changing or factual topics, verify current facts with web search when available or clearly mark uncertainty.
 - Keep Chinese output natural, concise, and precise. Keep common English terms in parentheses when helpful.

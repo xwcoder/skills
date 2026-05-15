@@ -34,6 +34,7 @@ When the user provides a technical topic, follow this workflow:
    - Produce a complete technical document, not just a study plan.
    - Include a learning path only as an optional section when useful.
    - Prioritize explanation, comparison, examples, and practical judgment.
+   - When a visual would materially improve understanding, include an appropriate diagram or image. The image may come from search or generation, and can be an architecture diagram, panorama map, sequence diagram, data-flow diagram, lifecycle diagram, dependency graph, or other topic-appropriate visual.
 
 5. Offer follow-up expansion
    - Suggest one focused next step, such as expanding a section, adding diagrams, adding examples, or converting to a study checklist.
@@ -141,6 +142,7 @@ Prefer this order: user-specified path → ask for missing path → fallback to 
 - Do not over-focus on chronology; explain why changes happened.
 - Do not list tools without explaining their role, strengths, and tradeoffs.
 - Avoid shallow summaries. Each major section should answer “why this matters” and “how it is used”.
+- Use diagrams or images when they clarify architecture, lifecycle, component relationships, request flow, data movement, dependencies, or tradeoffs better than text alone.
 - For fast-changing topics, verify current facts with web search when available or clearly mark uncertainty.
 - When generating Markdown, use clean headings, concise paragraphs, tables where useful, and code blocks for commands/config.
 - Keep Chinese output natural, technical, and precise. Keep common English technical terms in parentheses when helpful.
